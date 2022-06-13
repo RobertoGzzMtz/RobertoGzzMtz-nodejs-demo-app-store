@@ -1,7 +1,7 @@
 {
   "name": "nodejs-demo-app-store",
   "version": "1.0.0",
-  "description": "Node.js Udemy Course demo store",
+  "description": "nodejs-demo-app-store",
   "main": "app.js",
   "engines": {
     "node": "17.9.0"
