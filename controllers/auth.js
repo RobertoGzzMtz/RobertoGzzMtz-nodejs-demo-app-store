@@ -9,8 +9,8 @@ const { validationResult } = require("express-validator");
 const transporter = nodemailer.createTransport(
   mailgunTransport({
     auth: {
-      api_key: "374f606a9f4fa6f1791ed9d4743cad94-5e7fba0f-0df41d5b",
-      domain: "sandboxebf7a4b7cc004ed99e17074499536484.mailgun.org",
+      api_key: "-",
+      domain: "-",
     },
   })
 );
